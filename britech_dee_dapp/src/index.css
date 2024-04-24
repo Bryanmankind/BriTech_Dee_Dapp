@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&family=Quicksand:wght@500;700&display=swap");
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 65.2%;
+}
+
+body {
+  font-size: 2.4rem;
+  font-family: sans-serif;
+  color: white;
+  font-family: "Quicksand";
+  font-weight: 500;
+}
+
+.app {
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+}
